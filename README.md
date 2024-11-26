@@ -20,9 +20,8 @@
             <li><a href="#tecnologias">Tecnologias Utilizadas</a></li>
             <li><a href="#conjunto-de-dados">Conjunto de Dados</a></li>
             <li><a href="#arquitetura">Arquitetura do Modelo</a></li>
-            <li><a href="#como-executar">Como Executar o Projeto</a></li>
-            <li><a href="#resultados">Resultados</a></li>
-            <li><a href="#licenca">Licença</a></li>
+            
+            
         </ul>
     </section>
 
