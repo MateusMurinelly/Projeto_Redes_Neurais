@@ -22,7 +22,7 @@
             <li><a href="#arquitetura">Arquitetura do Modelo</a></li>
             
             
-        </ul>
+</ul>
     </section>
 
   <section id="sobre" style="padding: 20px;">
